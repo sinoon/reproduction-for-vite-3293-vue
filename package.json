@@ -1,0 +1,17 @@
+{
+    "name": "test-project",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite --debug debug:less",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "vite": "^2.8.5",
+        "vue": "^3.2.25"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^2.0.0",
+        "less": "^4.1.2"
+    }
+}
